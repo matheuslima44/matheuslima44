@@ -8,9 +8,7 @@
 matheuslima44/matheuslima44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-hello my name matheus i am 18 y old
-
-  i like computer and games: 
+hello my name matheus i am 19 years old(D:08 M:04 Y:2003)
 
     Im going to college (eng computer):
 
