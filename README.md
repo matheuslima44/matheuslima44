@@ -16,5 +16,5 @@ hello my name matheus i am 18 y old
 
       i looking collaborate in python: 
 
-          you talk from me from my email (ma10the@outloo.com) 
+          you talk from me from my email (ma10the@outlook.com) 
 
