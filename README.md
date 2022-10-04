@@ -12,7 +12,7 @@ hello my name matheus i am 19 years old(D:08 M:04 Y:2003)
 
     Im going to college (eng computer):
 
-      i looking collaborate in python: 
+      i looking collaborate in front-end or back-end: 
 
-          you talk from me from my email (ma10the@outlook.com) 
+          
 
