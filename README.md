@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matheuslima44
+- 👋 Hi, I’m Matheus Garcia 
 - 👀 I’m interested in ... I'm interested in the games and backend part
 - 🌱 I’m currently learning ... Attending college
 - 💞️ I’m looking to collaborate on ... start my career in a company
